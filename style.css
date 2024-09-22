@@ -1,0 +1,104 @@
+#nav1{
+    background-color: white;
+}
+
+
+
+
+
+
+
+#job{
+    padding: 100px;
+  }
+
+  #on{
+    font-family: "Playfair Display", serif;
+    color: rgb(103, 40, 163);
+  }
+
+  .assistance{
+    font-family: "Open Sans", sans-serif;
+    color: rgb(103, 40, 163);
+  }
+  .para1{
+    font-size: 15px;
+  }
+  #placements{
+    text-align: center;
+   
+  }
+  #place{
+    font-family: "Playfair Display", serif;
+    color: rgb(103, 40, 163);
+    font-size: 60px;
+
+  }
+  #our{
+    color:rgb(69, 68, 68);
+  }
+
+  .details h2{
+    color: rgb(103, 40, 163);
+    margin: 0;
+    font-size: 24px;
+    margin-left: 90px;
+
+  }
+
+  .details h4 {
+    color: gray;
+    margin: 0;
+    font-size: 18px;
+    margin-left: 90px;
+  }
+  .details p {
+    margin-top: 10px;
+    color: #6c757d;
+    margin-left: 90px;
+  }
+  #pic{
+    display: flex;
+   
+  }
+  #pic:hover{
+    background-position: bottom;
+    filter: drop-shadow(3px 4px 20px rgb(205, 55, 188));
+
+  }
+  .working{
+    color: rgb(103, 40, 163);
+    font-size: 60px;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+  }
+  #mission{
+    text-align: center;
+    color:rgb(80, 74, 74) ;
+  }
+  #pen{
+    background-image: url(https://wallpaperaccess.com/full/3239480.jpg);
+    text-align: center;
+    background-size: cover;
+    object-fit: fill;
+    width: 900px;
+    height: 500px;
+  }
+  #bcktext{
+    font-family: "Playfair Display", serif;
+  }
+  .btn{
+    color: rgb(103, 40, 163);
+    border-radius: 20px;
+    background-color: white;
+  }
+#vclr{
+  color: rgb(103, 40, 163);
+}
+#ash{
+  color:rgb(80, 74, 74) ;
+
+}
+
+  
+ 
